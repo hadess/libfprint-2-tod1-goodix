@@ -1,0 +1,16 @@
+Source: libfprint-2-tod1-goodix
+Section: misc
+Priority: optional
+Maintainer: alex tu <alex.tu@canonical.com>
+XSBC-Original-Maintainer: Boger.Wang <boger@goodix.com>
+Build-Depends: debhelper (>=9), dh-modaliases, libfprint-2-tod1
+Standards-Version: 4.1.4
+Homepage: https://www.goodix.com/
+Vcs-Browser: https://code.launchpad.net/~lyoncore-team/lyoncore/+git/libfprint-2-tod2-goodix
+
+Package: libfprint-2-tod1-goodix
+Architecture: amd64
+Depends: ${misc:Depends}, libc6 (>= 2.4), libglib2.0-0 (>= 2.14.0), libusb-1.0-0 (>= 2:1.0.9), libfprint-2-2 (>= 1.90.1), libfprint-2-tod1 (>= 1.90.1)
+XB-Modaliases: ${modaliases}
+Description: Goodix driver module for libfprint-2 Touch OEM Driver.
+ this is user space driver for Goodix finger print module.

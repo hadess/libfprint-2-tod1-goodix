@@ -1,0 +1,15 @@
+libfprint-2-tod1-goodix (0.0.4-0ubuntu1) focal; urgency=medium
+
+  [Boger.Wang <boger@goodix.com>]
+  * add version info to module name
+  * change print template formatFeatures
+
+
+ -- Alex Tu <alex.tu@canonical.com>  Mon, 06 Apr 2020 11:08:25 +0800
+
+libfprint-2-tod1-goodix (0.0.3-0ubuntu1) focal; urgency=medium
+
+  * 1st drop from goodix engineer Boger.Wang <boger@goodix.com>.
+    - fix libfprint vfunc "cancel" handle not propertly
+
+ -- Alex Tu <alex.tu@canonical.com>  Fri, 21 Feb 2020 13:38:45 +0800
