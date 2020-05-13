@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: libfprint-2-tod1-goodix
-Source:
+Source: https://launchpad.net/libfprint-2-tod1-goodix
 
 Files: usr/* lib/*
 Copyright: Copyright (c) 2020, Shenzhen Goodix Technology Co.,Ltd. (“Goodix”)  All rights reserved.

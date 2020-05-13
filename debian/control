@@ -6,7 +6,7 @@ XSBC-Original-Maintainer: Boger.Wang <boger@goodix.com>
 Build-Depends: debhelper (>=9), dh-modaliases, libfprint-2-tod1
 Standards-Version: 4.1.4
 Homepage: https://www.goodix.com/
-Vcs-Browser: https://code.launchpad.net/~lyoncore-team/lyoncore/+git/libfprint-2-tod2-goodix
+Vcs-Browser: https://launchpad.net/libfprint-2-tod1-goodix
 
 Package: libfprint-2-tod1-goodix
 Architecture: amd64
