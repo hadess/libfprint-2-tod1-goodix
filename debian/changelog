@@ -1,3 +1,9 @@
+libfprint-2-tod1-goodix (0.0.4ubuntu1.2) focal; urgency=medium
+
+  * fix litian errors.
+
+ -- Alex Tu <alex.tu@canonical.com>  Wed, 13 May 2020 18:34:10 +0800
+
 libfprint-2-tod1-goodix (0.0.4ubuntu1.1) focal; urgency=medium
 
   * bump version and correct it by following policy.

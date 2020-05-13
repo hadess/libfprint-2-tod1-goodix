@@ -3,7 +3,7 @@ Section: misc
 Priority: optional
 Maintainer: alex tu <alex.tu@canonical.com>
 XSBC-Original-Maintainer: Boger.Wang <boger@goodix.com>
-Build-Depends: debhelper (>=11), dh-modaliases, libfprint-2-tod1
+Build-Depends: debhelper (>=12), dh-modaliases, libfprint-2-tod1
 Standards-Version: 4.1.4
 Homepage: https://www.goodix.com/
 Vcs-Browser: https://launchpad.net/libfprint-2-tod1-goodix
