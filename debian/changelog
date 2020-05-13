@@ -10,12 +10,6 @@ libfprint-2-tod1-goodix (0.0.4-0ubuntu1.1) focal; urgency=medium
 
  -- Alex Tu <alex.tu@canonical.com>  Wed, 13 May 2020 16:32:11 +0800
 
-libfprint-2-tod1-goodix (0.0.4-0ubuntu1somerville1) focal; urgency=medium
-
-  * bump version
-
- -- Alex Tu <alex.tu@canonical.com>  Wed, 29 Apr 2020 11:55:43 +0800
-
 libfprint-2-tod1-goodix (0.0.4-0ubuntu1) focal; urgency=medium
 
   [Boger.Wang <boger@goodix.com>]
