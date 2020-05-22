@@ -1,3 +1,16 @@
+libfprint-2-tod1-goodix (0.0.4ubuntu2~1.gbpf17770) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @f17770af882d9b13832f16c77d739aa5387e2545 **
+
+  * code drop from goodix for driver ver. 0.0.6 (LP: #1880058)
+    - bugfix: prevent power button taking effect during enrollment
+    power button press down event should not report during enrollment, this can prevent screen off while user press power button while enroll a finger.
+    - feature: add template update feature for improve recognition success rate
+    allow user's finger prints self-learning, this can improve user unlock experience
+
+
+ -- Alex Tu <alex.tu@canonical.com>  Fri, 22 May 2020 16:27:07 +0800
+
 libfprint-2-tod1-goodix (0.0.4ubuntu1) focal; urgency=medium
 
   * for release to Ubuntu archive (LP: #1878359)
