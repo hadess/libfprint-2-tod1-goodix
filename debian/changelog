@@ -1,6 +1,4 @@
-libfprint-2-tod1-goodix (0.0.6ubuntu1~somerville1~1.gbp51f5bd) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @51f5bd50c9c1694c8b3b7d3a71fe0e54c9fa843c **
+libfprint-2-tod1-goodix (0.0.6ubuntu1~somerville1) focal; urgency=medium
 
   * code drop from goodix for driver ver. 0.0.6 (LP: #1880058)
     - bugfix: prevent power button taking effect during enrollment
@@ -10,8 +8,9 @@ libfprint-2-tod1-goodix (0.0.6ubuntu1~somerville1~1.gbp51f5bd) UNRELEASED; urgen
 
   * Update changelog for 0.0.4ubuntu2~1.gbpf17770 release
   * bump version
+  * bump version
 
- -- Alex Tu <alex.tu@canonical.com>  Fri, 29 May 2020 15:45:24 +0800
+ -- Alex Tu <alex.tu@canonical.com>  Fri, 29 May 2020 15:46:15 +0800
 
 libfprint-2-tod1-goodix (0.0.4ubuntu1) focal; urgency=medium
 
